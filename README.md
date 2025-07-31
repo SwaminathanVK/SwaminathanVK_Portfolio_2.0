@@ -99,7 +99,7 @@ If you like what you see or want to collaborate, feel free to reach out!
 
 Installation
 
-git clone https://github.com/SwaminathanVK/portfolio.git
+git clone https://github.com/SwaminathanVK/SwaminathanVK_Portfolio_2.0.git
 cd portfolio
 npm install
 npm run dev
