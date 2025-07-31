@@ -1,0 +1,22 @@
+@import "tailwindcss";
+
+html {
+    scroll-behavior: smooth;
+}
+
+@keyframes shine {
+    0% {
+      background-position: 200% center;
+    }
+    100% {
+      background-position: -200% center;
+    }
+  }
+
+
+/* html {
+  transition: background-color 0.3s, color 0.3s;
+}  */
+/* * {
+    outline: 1px solid red;
+  } */
