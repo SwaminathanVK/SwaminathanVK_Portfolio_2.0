@@ -89,8 +89,8 @@ Drive innovation and participation among students
 🏛️ Awarded by faculty and institution heads during a public felicitation at Hindusthan Auditorium for my outstanding contribution to academic excellence and student development.
 
 🖼️ Moments of Recognition
+<img width="1896" height="1030" alt="image" src="https://github.com/user-attachments/assets/da977091-0dc5-4e30-9d50-0f610ca57b44" />
 
-<img width="1899" height="1027" alt="image" src="https://github.com/user-attachments/assets/429cd835-4e04-45d3-b9ec-bd8c85571835" />
 
 📨 Contact Me
 If you like what you see or want to collaborate, feel free to reach out!
