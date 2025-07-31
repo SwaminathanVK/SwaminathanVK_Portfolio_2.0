@@ -10,7 +10,7 @@ import heroimg from '../assets/heroimg.JPG' // use your actual path
 
 function Hero() {
   const download = () => {
-    window.open("https://drive.google.com/file/d/11MyvHie9yBYXqoq5hajvqfn3d8j_9PVf/view?usp=drive_link");
+    window.open("https://drive.google.com/file/d/1zRzeTMpeKq_On9bgYRTsh0KOjd2CVb4p/view?usp=drive_link");
   };
 
   return (
