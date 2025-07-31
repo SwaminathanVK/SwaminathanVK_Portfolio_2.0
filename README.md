@@ -94,7 +94,7 @@ Drive innovation and participation among students
 📨 Contact Me
 If you like what you see or want to collaborate, feel free to reach out!
 
-📧 Email: iamswami19@gmail.com@gmail.com
+📧 Email: iamswami19@gmail.com
 
 
 Installation
