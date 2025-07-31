@@ -34,7 +34,7 @@ I’m **Swaminathan VK**, a passionate and detail-oriented **Full Stack Develope
 
 ## 📂 Folder Structure
 
-```bash
+bash
 model/
 ├── public/
 ├── src/
@@ -89,8 +89,7 @@ Drive innovation and participation among students
 🏛️ Awarded by faculty and institution heads during a public felicitation at Hindusthan Auditorium for my outstanding contribution to academic excellence and student development.
 
 🖼️ Moments of Recognition
-<img width="1896" height="1030" alt="image" src="https://github.com/user-attachments/assets/da977091-0dc5-4e30-9d50-0f610ca57b44" />
-
+<img width="1896" height="1030" alt="image" src="https://github.com/user-attachments/assets/6a9cfeb5-7b8c-495b-adb9-a2677030ab2d" />
 
 📨 Contact Me
 If you like what you see or want to collaborate, feel free to reach out!
