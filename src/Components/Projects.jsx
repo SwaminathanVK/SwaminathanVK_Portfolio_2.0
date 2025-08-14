@@ -2,6 +2,7 @@ import React from 'react';
 import event from '../assets/event.webp';
 import climate from "../assets/climate.jpg";
 import movie from "../assets/movie.png";
+import Flight from "../assets/Flight.jpg";
 import { FaReact } from "react-icons/fa";
 
 const Projects = () => {
@@ -102,6 +103,16 @@ const projects = [
     code: 'https://github.com/SwaminathanVK/-Climate-Viewer.git',
     demo: 'https://climateviewer.netlify.app/',
     image: climate,
+  },
+  {
+    title: 'Flight Booking System',
+    description:
+      '"Built a dynamic, full-featured flight booking web app using React.js and Tailwind CSS with role-based access, real-time search, booking management, and secure user authentication.".',
+    tech: ['React.js', 'API', 'JavaScript','Node.js,MongoDB'],
+    features: ['Multi-platform Support', 'Post Scheduling', 'Flight Booking', 'Authentication'],
+    code: 'https://github.com/SwaminathanVK/Flight_Booking_System-FE.git',
+    demo: 'https://letsflyy.netlify.app/',
+    image: Flight,
   },
   {
     title: 'Movie Viewer',
